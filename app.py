@@ -79,7 +79,7 @@ interface = gr.Interface(
     inputs=gr.Image(type="pil", label="Upload Cat/Dog Image"),
     outputs=gr.Label(num_top_classes=2, label="Predictions"),
     title="🐱 Cat vs Dog Classifier 🐶",
-    description="Upload an image to see if the model predicts a Cat or a Dog with confidence levels."
+    description="Upload an image to see if the model predicts a Cat or a Dog with confidence levels.<br>💻 **GitHub Repository:** [SAHIL-AGARWAL-IN/CNN_CAT_DOG](https://github.com/SAHIL-AGARWAL-IN/CNN_CAT_DOG)"
 )
 
 if __name__ == "__main__":
