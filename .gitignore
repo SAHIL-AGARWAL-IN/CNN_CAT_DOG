@@ -1,0 +1,17 @@
+# Ignore dataset folder (very large)
+data/
+PetImages/
+
+# Ignore Gradio local cache and logs
+.gradio/
+
+# Ignore Jupyter Notebook checkpoint directories
+.ipynb_checkpoints/
+
+# Ignore python bytecode and local caches
+__pycache__/
+*.pyc
+
+# Ignore OS files
+Thumbs.db
+.DS_Store
