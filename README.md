@@ -3,7 +3,8 @@
 A deep learning project implementing a custom Convolutional Neural Network (CNN) in **PyTorch** to classify images of cats and dogs. The project also includes an interactive web interface built using **Gradio** for real-time model predictions.
 
 ## 🚀 Live Demo & Deployment
-This model is designed to be easily deployed on **Hugging Face Spaces** using Gradio.
+You can try the model live on Hugging Face Spaces:
+🔗 **[Live Demo: Cat vs Dog Classifier](https://huggingface.co/spaces/SAHIL-AGARWAL/CNN_CAT_DOG)**
 
 ### How to Run Locally
 1. Clone this repository:
